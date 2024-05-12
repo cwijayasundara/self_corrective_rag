@@ -1,0 +1,13 @@
+langchain-community
+langchain-openai
+tiktoken
+langchainhub
+chromadb
+langchain
+langgraph
+tavily-python
+gpt4all
+python-dotenv
+beautifulsoup4
+unstructured[all-docs]
+pypdf
